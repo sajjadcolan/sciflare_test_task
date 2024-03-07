@@ -1,0 +1,32 @@
+.addBtn {
+  background-color: #00e785 !important;
+  color: black !important;
+  display: flex !important;
+  float: inline-end !important;
+  margin: 8px 0px !important;
+  border: none !important;
+  outline: none !important;
+  padding: 12px;
+  padding: 8px 16px;
+  font-weight: 600;
+}
+.modal-fields-wrapper {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+.modal-input {
+  width: 40%;
+}
+#modal-modal-title {
+  padding: 10px;
+}
+.modal-btn-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  gap: 25px;
+  padding: 20px 0px;
+}
